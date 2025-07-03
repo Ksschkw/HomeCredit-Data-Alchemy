@@ -111,7 +111,7 @@ The cleaned datasets are ready for:
 ## Why "Data Alchemy"?
 Like alchemists turning base metals into gold, this pipeline transforms raw, complex financial data into pure predictive gold through domain expertise and careful feature engineering.
 
-![Data Alchemy](https://example.com/data-alchemy-metaphor.png) *(Visual metaphor for data transformation)*
+![Data Alchemy](data-alchemy-metaphor.png) *(Visual metaphor for data transformation)*
 
 ---
 **Created with ❤️ for financial risk prediction**  
